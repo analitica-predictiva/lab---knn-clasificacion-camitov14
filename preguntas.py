@@ -79,5 +79,3 @@ def pregunta_02():
 
     # Retorne la matriz de confusión
     return confusion_matrix(y, y_pred)
-pregunta_01()
-pregunta_02()
